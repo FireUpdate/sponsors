@@ -8,18 +8,14 @@
                 "text": "I am a robot, son of Daniel (UK)"
             },
             "thumbnail": {
-                "url": "https://i.imgur.com/WyzaPKY.png"
+                "url": "https://cdn.discordapp.com/icons/475149234014912512/6416d9cd8df8f21ee85dfb4761e86753"
             },
             "author": {
-                "name": "Sir Reddit",
+                "name": "Fire's Bots™",
                 "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
-                "icon_url": "https://i.imgur.com/WyzaPKY.png"
+                "icon_url": "https://cdn.discordapp.com/icons/475149234014912512/6416d9cd8df8f21ee85dfb4761e86753"
             },
             "fields": [
-                {
-                    "name": "Subscribe!",
-                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
-                },
                 {
                     "name": "Discord Server!",
                     "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
