@@ -1,0 +1,39 @@
+[
+    {
+        "embed": {
+            "title": "Hey there!",
+            "description": "Nice to see you here! You can support us by subscribing on youtube -> [YouTube](https://www.youtube.com/fireupdate) <- and also join our  [Discord](https://discord.gg/3FAd4Yu)!",
+            "url": "https://discord.gg/3FAd4Yu",
+            "color": 13003681,
+            "footer": {
+                "icon_url": "https://cdn.discordapp.com/attachments/546573096849768448/765228453292802058/Fire_Logo.jpg",
+                "text": "FireUpdate - #FireForIndia"
+            },
+            "thumbnail": {
+                "url": "https://cdn.discordapp.com/attachments/546573096849768448/765228453292802058/Fire_Logo.jpg"
+            },
+            "image": {
+                "url": "https://cdn.discordapp.com/attachments/546573096849768448/765228985814220810/FireUpdate.png"
+            },
+            "author": {
+                "name": "FireUpdate",
+                "url": "https://discord.gg/3FAd4Yu",
+                "icon_url": "https://cdn.discordapp.com/attachments/546573096849768448/765229217536671794/imageedit_4_9409886777.jpg"
+            },
+            "fields": [
+                {
+                    "name": "Main motive of the channel?",
+                    "value": "This channel is all about gaming. We do live streams every single day to entertain people out there. 80% of the revenue earned from the channel goes to #FireForIndia. "
+                },
+                {
+                    "name": "What is #FireForIndia?",
+                    "value": "#FireForIndia is basically a hashtag which is used by us to support India. This means, We contribute 80% of the money to charity and the whole process is defined as #fireForIndia."
+                },
+                {
+                    "name": "Discord",
+                    "value": "Make sure to join our [Discord](https://discord.gg/zaeVCaV) to support the movement!"
+                }
+            ]
+        }
+    }
+]
