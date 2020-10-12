@@ -1,6 +1,34 @@
 [
     {
         "embed": {
+            "description": "This is a Discord server where you will find lots of custom bots developed by people around the globe, You can try them out for the first time and enjoy!",
+            "color": 15114050,
+            "footer": {
+                "icon_url": "https://cdn.discordapp.com/icons/475149234014912512/6416d9cd8df8f21ee85dfb4761e86753",
+                "text": "I am a robot, son of Daniel (UK)"
+            },
+            "thumbnail": {
+                "url": "https://i.imgur.com/WyzaPKY.png"
+            },
+            "author": {
+                "name": "Sir Reddit",
+                "url": "https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1",
+                "icon_url": "https://i.imgur.com/WyzaPKY.png"
+            },
+            "fields": [
+                {
+                    "name": "Subscribe!",
+                    "value": "[**Click Here**](https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ?sub_confirmation=1)"
+                },
+                {
+                    "name": "Discord Server!",
+                    "value": "[**Click Here**](https://discord.gg/V8ErqHb)"
+                }
+            ]
+        }
+    },
+    {
+        "embed": {
             "title": "Hey there!",
             "description": "Nice to see you here! You can support us by subscribing on youtube -> [YouTube](https://www.youtube.com/fireupdate) <- and also join our  [Discord](https://discord.gg/3FAd4Yu)!",
             "url": "https://discord.gg/3FAd4Yu",
